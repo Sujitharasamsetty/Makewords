@@ -12,7 +12,7 @@ answers = [
     "india",
     "america",
     "london",
-    "zzlepu"
+    "puzzle"
 ]
 
 words = [
@@ -23,7 +23,7 @@ words = [
     "aidin",
     "aiearcm",
     "odnlon",
-    "puzzle"
+    "uzzple"
 ]
 
 # I have improvised the code by using len(words)
